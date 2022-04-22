@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-container {
+  min-height: 100vh;
+  background-color: black;
+  color: white;
+  padding-bottom: 32px;
+}
+.banner {
+  width: 100%;
+  max-width: 1120px;
+}
+.slider-container {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 32px;
+}
